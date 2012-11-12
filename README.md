@@ -33,7 +33,8 @@ Note: The links will be stored in `links.txt` in this example.
 <b>Download a list of Vimeo links:</b>   
 
 `php main.php --mode links -i links.txt`  
-Where `links.txt` is the file full of Vimeo links.
+
+Note: `links.txt` is the file full of Vimeo links in this example.
 
 Flags
 ----
